@@ -8,7 +8,7 @@ La presente guía se realizó buscando los siguientes objetivos:
 
   1. Transmitir las mejores prácticas a la hora de desarrollar en GeneXus.
   1. Estandarizar el código escrito. Ya que hay tantas formas de programar como programador, se intenta simplificar la lectura del código fuente.
-  1. Dibulgar buenas prácticas de codificación y las novedades del lenguaje.
+  1. Divulgar buenas prácticas de codificación y las novedades del lenguaje.
 
 ## Tabla de Contenidos
 
